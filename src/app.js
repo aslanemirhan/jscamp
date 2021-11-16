@@ -29,3 +29,6 @@ for(let i=0; i<konutKredileri.length; i++){
 }
 console.log("</ul>")
 console.log("Degisiklik yapıldı")
+
+// 01.11.21 - Monday 
+
